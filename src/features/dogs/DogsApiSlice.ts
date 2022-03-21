@@ -1,6 +1,6 @@
 import { createApi, fetchBaseQuery } from "@reduxjs/toolkit/query/react";
 
-const DOGS_API_KEY = "636304a0-0179-46e3-a1b8-33dc7590d732";
+const DOGS_API_KEY = "xxxxx";
 
 interface Bread {
   id: string;
